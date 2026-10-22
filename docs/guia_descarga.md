@@ -5,7 +5,7 @@ entidad y reproducir el proceso.
 
 ## 1. Usar las tablas procesadas
 
-1. Entre a https://github.com/doar95/aseguramiento-salud-colombia y abra la carpeta
+1. Entre a https://github.com/victorfrancomadera-lab/ASEGURAMIENTO_ADRES y abra la carpeta
    `data/processed/`.
 2. Haga clic en el archivo y luego en el botón de descarga (*Download raw file*).
 3. Ábralo en Excel: *Datos → Obtener datos → Desde texto/CSV*, con origen **65001: Unicode (UTF-8)**

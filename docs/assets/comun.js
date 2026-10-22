@@ -1,6 +1,6 @@
 /* Utilidades compartidas por las páginas del sitio (menú, idioma, formato, estado en la URL). */
 "use strict";
-const REPO = "https://github.com/doar95/aseguramiento-salud-colombia/blob/main/";
+const REPO = "https://github.com/victorfrancomadera-lab/ASEGURAMIENTO_ADRES/blob/main/";
 const PAGINAS = [["index.html", "Inicio", "Home"], ["mapa.html", "Mapa", "Map"], ["afiliacion.html", "Afiliación", "Enrollment"],
   ["eps.html", "EPS", "Insurers (EPS)"], ["finanzas.html", "Finanzas", "Finances"], ["corte.html", "Corte Constitucional", "Constitutional Court"]];
 let LANG = "es";
@@ -17,7 +17,7 @@ function cabecera(activa) {
   m.className = "menu";
   m.setAttribute("aria-label", "Secciones");
   m.innerHTML = PAGINAS.map(([h, es, en]) => `<a href="${h}" class="${h === activa ? "on" : ""}">${LANG === "es" ? es : en}</a>`).join("") +
-    `<a href="https://github.com/doar95/aseguramiento-salud-colombia">GitHub ↗</a>`;
+    `<a href="https://github.com/victorfrancomadera-lab/ASEGURAMIENTO_ADRES">GitHub ↗</a>`;
   document.body.prepend(m);
   document.body.prepend(g);
   g.querySelector("#b-es").onclick = () => cambiarIdioma("es");
@@ -93,7 +93,7 @@ function piePagina() {
   f.innerHTML = (LANG === "es"
     ? "Claude (Anthropic), David Aguilar y Camila Gómez. Datos abiertos de MinSalud, ADRES, SISPRO, DANE, Supersalud y Corte Constitucional. Código: licencia MIT; datos derivados de la ADRES: CC BY-SA 4.0. No es una publicación oficial de ninguna entidad."
     : "Claude (Anthropic), David Aguilar and Camila Gómez. Open data from MinSalud, ADRES, SISPRO, DANE, Supersalud and the Constitutional Court. Code: MIT; ADRES-derived data: CC BY-SA 4.0. Not an official publication of any agency.") +
-    ` · <a href="https://github.com/doar95/aseguramiento-salud-colombia">GitHub</a>`;
+    ` · <a href="https://github.com/victorfrancomadera-lab/ASEGURAMIENTO_ADRES">GitHub</a>`;
   document.body.append(f);
 }
 

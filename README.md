@@ -2,16 +2,19 @@
 
 **Afiliación por municipio · EPS · UPC y sus zonas · finanzas de la ADRES**
 
-Sitio con el documento y el tablero: **https://doar95.github.io/aseguramiento-salud-colombia/**
+> Copia de [doar95/aseguramiento-salud-colombia](https://github.com/doar95/aseguramiento-salud-colombia),
+> de David Aguilar y Camila Gómez, bajo licencia MIT. La cita académica sigue apuntando al trabajo original.
+
+Sitio con el documento y el tablero: **https://victorfrancomadera-lab.github.io/ASEGURAMIENTO_ADRES/**
 
 | Página | Qué muestra |
 |---|---|
-| [Inicio](https://doar95.github.io/aseguramiento-salud-colombia/) | Documento (métodos, resultados, limitaciones) y tablero resumido |
-| [Mapa](https://doar95.github.io/aseguramiento-salud-colombia/mapa.html) | Mapa municipal a pantalla completa, 2013–2026, comparación entre años y panel de finanzas del año |
-| [Afiliación](https://doar95.github.io/aseguramiento-salud-colombia/afiliacion.html) | Tendencias nacional, departamental y municipal; rankings; dispersión; distribuciones; pirámides |
-| [EPS](https://doar95.github.io/aseguramiento-salud-colombia/eps.html) | Afiliados por EPS, tendencias, concentración (HHI) y EPS bajo medida de la Supersalud |
-| [Finanzas](https://doar95.github.io/aseguramiento-salud-colombia/finanzas.html) | Ejecución de la ADRES por categoría y LMA del subsidiado por fuente y departamento |
-| [Corte Constitucional](https://doar95.github.io/aseguramiento-salud-colombia/corte.html) | Autos de seguimiento junto a las resoluciones anuales de la UPC |
+| [Inicio](https://victorfrancomadera-lab.github.io/ASEGURAMIENTO_ADRES/) | Documento (métodos, resultados, limitaciones) y tablero resumido |
+| [Mapa](https://victorfrancomadera-lab.github.io/ASEGURAMIENTO_ADRES/mapa.html) | Mapa municipal a pantalla completa, 2013–2026, comparación entre años y panel de finanzas del año |
+| [Afiliación](https://victorfrancomadera-lab.github.io/ASEGURAMIENTO_ADRES/afiliacion.html) | Tendencias nacional, departamental y municipal; rankings; dispersión; distribuciones; pirámides |
+| [EPS](https://victorfrancomadera-lab.github.io/ASEGURAMIENTO_ADRES/eps.html) | Afiliados por EPS, tendencias, concentración (HHI) y EPS bajo medida de la Supersalud |
+| [Finanzas](https://victorfrancomadera-lab.github.io/ASEGURAMIENTO_ADRES/finanzas.html) | Ejecución de la ADRES por categoría y LMA del subsidiado por fuente y departamento |
+| [Corte Constitucional](https://victorfrancomadera-lab.github.io/ASEGURAMIENTO_ADRES/corte.html) | Autos de seguimiento junto a las resoluciones anuales de la UPC |
 
 Cada página guarda en el enlace lo que se está viendo (variable, año, departamento, municipio), para compartirlo.
 
